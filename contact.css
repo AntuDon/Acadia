@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Outfit", sans-serif;
+}
+
+.blue ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.feather{
+    margin-top: 100px;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 70px;
+    color: 
+    rgb(3, 31, 66);
+    background-color:#FFFFFF ;
+}
+
+.answers{
+    color: 
+    rgb(87, 89, 95);
+    line-height: 26px;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.mess{
+    color: 
+    rgb(3, 31, 66);
+    font-weight: 600;
+    line-height: 36px;
+    font-size: 30px;
+    margin-top: 150px;
+    padding-left: 310px;
+}
+
+input{
+    padding: 10px;
+}
+
+label{
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map{
+    margin-top: 200px;
+}
+
+.foot {
+    background-color: #FFFFFF;
+    height: 340px;
+}
+
+.foot p
+{
+    font-family: "Jost", sans-serif;
+    color: rgba(86, 88, 92, 0.644);
+    line-height: 32px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.about li a{
+    font-family: "Jost", sans-serif;
+    color: rgba(86, 88, 92, 0.644);
+    line-height: 32px;
+    font-size: 18px;
+}
+
+.about h4 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.about li {
+    list-style: none;
+}
+
+.about li a {
+    text-decoration: none;
+}
+
+.about input {
+    padding: 10px;
+    border-radius: 3%;
+}
+
+.about button {
+    padding: 7px;
+    border-radius: 7%;
+    color: white;
+    background-color: #157347;
+    border: 1px solid #157347;
+}
+
+.sem {
+    background-color: #f8f8f8c0;
+    height: 60px;
+}
+
+.sem p {
+    font-family: "Jost", sans-serif;
+    font-size: 18px;
+    color: rgba(86, 88, 92, 0.705);
+}
+
+.sem p span:hover {
+    color: #157347;
+}
+
+.twi {
+    font-size: 20px;
+    padding: 4px;
+    padding-top: 4px;
+}

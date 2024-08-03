@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.blue ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.norm{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #D9DBFF;
+    margin-bottom: 70px;
+}
+
+.bread{
+    padding-left: 130px;
+}
+
+.crumb{
+    color: 
+    rgb(3, 31, 66);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.evenn{
+    color: 
+    rgb(3, 31, 66);
+    font-weight: 600;
+    font-size: 56px;
+}
+
+.cards{
+    padding-left: 50px;
+}
+
+.cardsowner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
